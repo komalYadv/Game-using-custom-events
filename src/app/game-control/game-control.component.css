@@ -1,0 +1,12 @@
+.container{
+    padding: 5%;
+    text-align: center;
+}
+
+button{
+    padding: 1% 2.5%;
+}
+
+.btn-danger{
+    margin-left: 2.5%;
+}
